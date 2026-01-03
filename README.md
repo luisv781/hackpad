@@ -1,6 +1,7 @@
 # luis's hackpad
 This is a 4 key macropad with an OLED display and KMK firmware.
 <img width="807" height="481" alt="Overall Hackpad" src="https://github.com/user-attachments/assets/24d044aa-a31d-4864-896a-4ed99a68111c" />
+<img width="804" height="491" alt="Full Hackpad Render" src="https://github.com/user-attachments/assets/8916cc40-8d7c-429e-9191-7f323daa2ed3" />
 
 | Schematic | PCB | Case |
 |-----------|-----|------|
